@@ -1,0 +1,2 @@
+# bnbchainproposal
+bnbchain poposal
