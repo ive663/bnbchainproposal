@@ -18,10 +18,14 @@ Let's make the BNBChain community even more awesome with Rust!
 
 Thanks 
 
+
 sources:
 https://github.com/KRakenoZavr/greenfield-sdk-rust-v2 - Our Greenfield Rust SDK Protobufs
+
 https://github.com/ive663/ChainSauce_task1 - Our project for hackathon Greenfield Rust CMD we use greeenfield-rust-sdk as external dependency
+
 https://github.com/bnb-chain/awesome - A list of awesome projects in BNB Chain Ecosystem
+
 https://github.com/bnb-chain/awesome/pull/7 - my PR to add Greenfield-Rust-SDK to the list of BNBChain Ecosystem projects
 
 
